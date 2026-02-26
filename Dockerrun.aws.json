@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "ljs0804/hello-django:v0.0.2",
+    "Name": "ljs0804/hello-django-deploy:latest",
     "Update": "true"
   },
   "Ports": [
